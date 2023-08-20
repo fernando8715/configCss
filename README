@@ -1,0 +1,13 @@
+---Configuracion inicial de CSS
+
+1. En la pagina web de normalice.ccs, descargar el codigo, copiarlo y pegarlo en el archivo del proyecto 
+
+2. Crear el archivo normalice.css y pegar aqui el codigo descargado
+
+3. Descargar las fuentes a utilizar en el proyecto de la pagina web ggogle fonts, pegar el link en el archivo HTML.
+ 
+4. Importar los archivos CSS en el index.html. Los archivos se colocan despues del title en el siguiente orden: 
+  - fuentes
+  -normalize
+  -La hoja de estilos index.css que contiene la configuracion inicial
+
